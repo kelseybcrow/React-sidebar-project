@@ -1,5 +1,4 @@
 import React, { useState, useContext } from 'react'
-import { useGlobalContext } from './../../final/src/context'
 
 const AppContext = React.createContext()
 
